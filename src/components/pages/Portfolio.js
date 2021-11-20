@@ -20,6 +20,5 @@ export default function Portfolio() {
             <Project name={"Project 2"} img={ProjectTwo} github={"https://github.com/ahuffma2/Haunted-Doll-House.git"} liveapp={"https://haunted-doll-house.herokuapp.com/"} description={"This app allows a user to find information on cool artifacts..."}/>
             </div>
         </div>
-
     );
 }
