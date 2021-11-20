@@ -30,7 +30,7 @@ export default function PortfolioContainer() {
       <div style={{ backgroundImage: `url(${background})`, backgroundSize: "cover", minHeight: "75rem"}}>
         <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
           {renderPage()}
-        <div style={{position: "absolute", left: "0rem", bottom: "0rem", right: "0rem"}}>
+        <div style={{position: "fixed", bottom: "0", left: "0", width: "100%"}}>
         <Footer/>
         </div>
       </div>

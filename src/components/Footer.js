@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footer() {
     return(
-        <footer style={{bottom: "0", height: "8rem", background: "#d4a373"}}>
+        <footer style={{bottom: "0", height: "6rem", background: "#d4a373"}}>
         <div className="main-footer font-small white pt-4"></div>
             <div className="container-fluid text-center text-md-left">
                 <div className="row">
