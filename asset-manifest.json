@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/andrew-koster-react-profile/static/css/main.7bf3b6e3.chunk.css",
-    "main.js": "/andrew-koster-react-profile/static/js/main.3aa4ea54.chunk.js",
-    "main.js.map": "/andrew-koster-react-profile/static/js/main.3aa4ea54.chunk.js.map",
+    "main.css": "/andrew-koster-react-profile/static/css/main.7b26ada5.chunk.css",
+    "main.js": "/andrew-koster-react-profile/static/js/main.0ddde4e2.chunk.js",
+    "main.js.map": "/andrew-koster-react-profile/static/js/main.0ddde4e2.chunk.js.map",
     "runtime-main.js": "/andrew-koster-react-profile/static/js/runtime-main.32715c97.js",
     "runtime-main.js.map": "/andrew-koster-react-profile/static/js/runtime-main.32715c97.js.map",
-    "static/css/2.383c0125.chunk.css": "/andrew-koster-react-profile/static/css/2.383c0125.chunk.css",
-    "static/js/2.b93bc8a6.chunk.js": "/andrew-koster-react-profile/static/js/2.b93bc8a6.chunk.js",
-    "static/js/2.b93bc8a6.chunk.js.map": "/andrew-koster-react-profile/static/js/2.b93bc8a6.chunk.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/andrew-koster-react-profile/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.03d03d8e.chunk.js": "/andrew-koster-react-profile/static/js/2.03d03d8e.chunk.js",
+    "static/js/2.03d03d8e.chunk.js.map": "/andrew-koster-react-profile/static/js/2.03d03d8e.chunk.js.map",
     "index.html": "/andrew-koster-react-profile/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/andrew-koster-react-profile/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.7bf3b6e3.chunk.css.map": "/andrew-koster-react-profile/static/css/main.7bf3b6e3.chunk.css.map",
-    "static/js/2.b93bc8a6.chunk.js.LICENSE.txt": "/andrew-koster-react-profile/static/js/2.b93bc8a6.chunk.js.LICENSE.txt",
+    "static/css/2.0a9ec390.chunk.css.map": "/andrew-koster-react-profile/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7b26ada5.chunk.css.map": "/andrew-koster-react-profile/static/css/main.7b26ada5.chunk.css.map",
+    "static/js/2.03d03d8e.chunk.js.LICENSE.txt": "/andrew-koster-react-profile/static/js/2.03d03d8e.chunk.js.LICENSE.txt",
     "static/media/background.944d54d2.jpg": "/andrew-koster-react-profile/static/media/background.944d54d2.jpg",
     "static/media/brewery.5cc0d165.jpg": "/andrew-koster-react-profile/static/media/brewery.5cc0d165.jpg",
     "static/media/budget.faf7de91.PNG": "/andrew-koster-react-profile/static/media/budget.faf7de91.PNG",
@@ -24,9 +24,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.32715c97.js",
-    "static/css/2.383c0125.chunk.css",
-    "static/js/2.b93bc8a6.chunk.js",
-    "static/css/main.7bf3b6e3.chunk.css",
-    "static/js/main.3aa4ea54.chunk.js"
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.03d03d8e.chunk.js",
+    "static/css/main.7b26ada5.chunk.css",
+    "static/js/main.0ddde4e2.chunk.js"
   ]
 }
