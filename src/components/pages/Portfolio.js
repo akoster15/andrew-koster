@@ -16,8 +16,8 @@ export default function Portfolio() {
             <Project name={"Work Day Scheduler"} img={Planner} github={"https://github.com/akoster15/work-day-scheduler.git"} liveapp={"https://akoster15.github.io/work-day-scheduler/"} description={"This app lets a user creat a schedule for work..."}/>
             <Project name={"Weather Dashboard"} img={Weather} github={"https://github.com/akoster15/password-generator.git"} liveapp={"https://akoster15.github.io/password-generator/"} description={"This app displays the weather for a specific city..."}/>
             <Project name={"Budget Tracker"} img={Budget} github={"https://github.com/akoster15/budget-tracker.git"} liveapp={"https://budget-tracker-akoster15.herokuapp.com/"} description={"This app will allow a user to track a budget offline/online..."}/>
-            <Project name={"Project 1"} img={ProjectOne} github={"https://github.com/matildabrantley/project-one.git"} liveapp={"https://matildabrantley.github.io/project-one/"} description={"This app allows a user to look up information on breweries..."}/>
-            <Project name={"Project 2"} img={ProjectTwo} github={"https://github.com/ahuffma2/Haunted-Doll-House.git"} liveapp={"https://haunted-doll-house.herokuapp.com/"} description={"This app allows a user to find information on cool artifacts..."}/>
+            <Project name={"Travel Brewery"} img={ProjectOne} github={"https://github.com/akoster15/travel-brewery"} liveapp={"https://matildabrantley.github.io/project-one/"} description={"This app allows a user to look up information on breweries..."}/>
+            <Project name={"Haunted Doll House"} img={ProjectTwo} github={"https://github.com/ahuffma2/Haunted-Doll-House.git"} liveapp={"https://haunted-doll-house.herokuapp.com/"} description={"This app allows a user to find information on cool artifacts..."}/>
             </div>
         </div>
     );
