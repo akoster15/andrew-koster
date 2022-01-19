@@ -42,5 +42,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "![screenshot](https://github.com/akoster15/andrew-koster-react-profile/blob/main/src/images/portfolio-screenshot.PNG)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akoster15/andrew-koster-react-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akoster15/andrew-koster-react-profile/issues"
   }
 }
