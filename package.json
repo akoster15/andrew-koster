@@ -2,7 +2,7 @@
   "name": "andrew-koster",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akoster15.github.io/andrew-koster",
+  "homepage": "https://akoster15.github.io/andrew-koster-react-profile",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
