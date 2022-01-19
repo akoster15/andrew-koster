@@ -30,7 +30,7 @@ function Footer() {
                 <div className="row">
                     <div className="col-md-12 mx-auto">
                     <ul style={{listStyleType:"none", display: "flex", justifyContent: "space-around"}}>
-                        <li><a style={{textDecoration: "none", display: "block"}} target="blank">andrekoster@outlook.com</a></li>
+                        <li><a style={{textDecoration: "none", display: "block"}} target="blank">Email: andrekoster@outlook.com</a></li>
                         </ul>
                     </div>
                 </div>
