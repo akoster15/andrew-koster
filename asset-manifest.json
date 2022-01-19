@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/andrew-koster-react-profile/static/css/main.7b26ada5.chunk.css",
-    "main.js": "/andrew-koster-react-profile/static/js/main.a0198d80.chunk.js",
-    "main.js.map": "/andrew-koster-react-profile/static/js/main.a0198d80.chunk.js.map",
+    "main.js": "/andrew-koster-react-profile/static/js/main.d4e5e7f4.chunk.js",
+    "main.js.map": "/andrew-koster-react-profile/static/js/main.d4e5e7f4.chunk.js.map",
     "runtime-main.js": "/andrew-koster-react-profile/static/js/runtime-main.0d2ce224.js",
     "runtime-main.js.map": "/andrew-koster-react-profile/static/js/runtime-main.0d2ce224.js.map",
     "static/css/2.0a9ec390.chunk.css": "/andrew-koster-react-profile/static/css/2.0a9ec390.chunk.css",
@@ -27,6 +27,6 @@
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.41f458e7.chunk.js",
     "static/css/main.7b26ada5.chunk.css",
-    "static/js/main.a0198d80.chunk.js"
+    "static/js/main.d4e5e7f4.chunk.js"
   ]
 }
