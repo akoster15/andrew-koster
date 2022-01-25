@@ -18,4 +18,4 @@ an About Me, Portfolio, Contact, and Resume.
 ## Links
 
 - GitHub Link: https://github.com/akoster15/andrew-koster-react-profile
-- Deployed Link: https://akoster15.github.io/andrew-koster-react-profile/#about
+- Deployed Link: https://akoster15.github.io/andrew-koster-react-profile/
