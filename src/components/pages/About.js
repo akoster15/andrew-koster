@@ -20,11 +20,7 @@ export default function About() {
                         My name is Andrew Koster. I was born in Johns Creek, GA and have lived here my whole life.
                         I have recently decided to make a career change from being a civil engineer to become a 
                         web developer. I am currently studying HTML, CSS, JavaScript, Bootstrap, jQuery, Node.js, Git,
-<<<<<<< HEAD
                         React, and so much more. I love to code and create new ideas. I also love going to the gym, 
-=======
-                        React, MongoDB, and so much more. I love to code and create new ideas. I also love going to the gym, 
->>>>>>> 08163bb5e3d89c80e8c952c548dcc8397d0344c0
                         watching football, playing basketball, traveling, and going out with friends.
                     </p>
                 </div>
