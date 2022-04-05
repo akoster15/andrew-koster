@@ -1,5 +1,5 @@
 {
-  "name": "andrew-koster",
+  "name": "andrew-koster-react-profile",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://akoster15.github.io/andrew-koster-react-profile",
@@ -11,7 +11,7 @@
     "jquery": "^3.6.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^4.0.3",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -42,5 +42,16 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
+  },
+  "description": "![screenshot](https://github.com/akoster15/andrew-koster-react-profile/blob/main/src/images/portfolio-screenshot.PNG)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akoster15/andrew-koster-react-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akoster15/andrew-koster-react-profile/issues"
   }
 }
