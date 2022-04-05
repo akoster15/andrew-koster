@@ -19,7 +19,7 @@ export default function About() {
                     <p className="left-align light">
                         My name is Andrew Koster. I was born in Johns Creek, GA and have lived here my whole life.
                         I have recently decided to make a career change from being a civil engineer to become a 
-                        wed developer. I am currently studying HTML, CSS, JavaScript, Bootstrap, jQuery, Node.js, Git,
+                        web developer. I am currently studying HTML, CSS, JavaScript, Bootstrap, jQuery, Node.js, Git,
                         React, and so much more. I love to code and create new ideas. I also love going to the gym, 
                         watching football, playing basketball, traveling, and going out with friends.
                     </p>
